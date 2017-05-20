@@ -1,6 +1,6 @@
 " Vim syntax file
 "      Language: botlang
-"       Version: 0.1.0
+"       Version: 1.0.0
 "    Maintainer: Mathias Schilling <m@matchilling.com>
 "       License: GPL-3.0
 " Last Modified: Sat 20 May 15:44:10 UTC 2017

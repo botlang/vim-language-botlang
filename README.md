@@ -4,6 +4,15 @@ Adds syntax highlighting and snippets to Botlang files (`*.bot`, `*.botlang`) in
 
 ![screenshot: syntax highlighting botlang](./example.png)
 
+## Usage
+
+```sh
+# Just clone this repository into your vim bundle directory and you are ready to go!
+$ git clone git@github.com:botlang/vim-language-botlang.git ~/.vim/bundle/vim-language-botlang
+```
+
+Open a vim session with an exiting botlang source file and type `: set syntax on`, or create a new file and type `: set syntax=botlang`.
+
 ## Contributions
 
 Contributions are greatly appreciated. Please fork this repository and open a pull request to add snippets, make grammar tweaks, etc.
