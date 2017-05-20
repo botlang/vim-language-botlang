@@ -1,6 +1,6 @@
 # Botlang support for vim
 
-Adds syntax highlighting and snippets to Botlang files (`*.bot`, `*.botlang`) in vim.
+Adds syntax highlighting and snippets to [Botlang](https://botlang.org) files (`*.bot`, `*.botlang`) in vim.
 
 ![screenshot: syntax highlighting botlang](./example.png)
 
